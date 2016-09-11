@@ -1,8 +1,15 @@
 Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  Use GitHub to submit the resulting text file.
 1. What is your name?
+	Laurie Nekola
 2. Why are you interested in Data Science?
+	I've always enjoyed working with data and thought this would be the perfect program for me.
 3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
+	I took java in my undergrad program.  Since then I've worked with SQL at my job.
 4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
+	I've taken the basic statistics course needed for my undergraduate degree.  Other than that I've had just a little bit of training in Lean Six Sigma which uses statistics.  I don't use statistics much at all in my job.
 5.  Do you have other experience with R or Python?
+	I only have a small amount of experience with R from DS 700.
 6.  What do you hope to learn in this class?
+	I hope to learn how to find meanings in data and apply statistics to data using R and Python.
 7.  Is there anything else you would like to share with us?
+	I look forward to the new material I will learn in this class and expect that I'll be able to use it directly with my day-to-day work at my job.
